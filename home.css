@@ -1,0 +1,166 @@
+body {
+    background: linear-gradient(45deg, #2D1642, #4D0141);
+}
+
+.icon {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 64px;
+    top: 12px;
+}
+
+.pres1 {
+    position: absolute;
+    left: 64px;
+    top: 120px;
+
+    font-family: 'MADE TOMMY';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 120px;
+    color: #FFFFFF;
+}
+
+.pres2 {
+    position: absolute;
+    left: 64px;
+    top: 220px;
+
+    font-family: 'MADE TOMMY';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 120px;
+    color: #FFFFFF;
+}
+
+.pres3 {
+    position: absolute;
+    left: 64px;
+    top: 320px;
+
+    font-family: 'MADE TOMMY';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 120px;
+    color: #C824B0;
+}
+
+.subpres {
+    position: absolute;
+    left: 64px;
+    top: 480px;
+    color:#FFFFFF;
+    font-family: 'MADE TOMMY';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.behanceicon {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 1252px;
+    top: 260px;
+}
+
+.dribbbleicon {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 1252px;
+    top: 320px;
+}
+
+.linkedinicon {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 1252px;
+    top: 380px;
+}
+
+.more{
+    position:absolute;
+    width: 22px;
+    height: 11px;
+    left: 700px;
+    top: 600px;
+}
+
+.home {
+    position: absolute;
+    left: 750px;
+    top: 36px;
+
+    font-family: 'MADE TOMMY';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.home:hover {
+    color: #C824B0;
+}
+
+.about {
+    position: absolute;
+    left: 900px;
+    top: 36px;
+
+    font-family: 'MADE TOMMY';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.about:hover {
+    color: #C824B0;
+}
+
+.works {
+    position: absolute;
+    left: 1050px;
+    top: 36px;
+
+    font-family: 'MADE TOMMY';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.works:hover {
+    color: #C824B0;
+}
+
+.contact {
+    position: absolute;
+    left: 1200px;
+    top: 36px;
+
+    font-family: 'MADE TOMMY';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.contact:hover {
+    color: #C824B0;
+}
